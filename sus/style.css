@@ -1,0 +1,29 @@
+div{
+	background-image: url(images/zuslan.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 1000px;
+	border: 10px solid red;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	background-size: cover;
+}
+body{
+	margin: 0;
+
+}
+a{
+	width: 90%;
+	padding: 8px;
+	background-color: #89F83D;
+	color: #ffffff;
+	text-decoration: none;
+	border-radius: 10px;
+	position: relative;
+	left: 40%;
+
+}
+a:hover{
+	background-color: #ffffff;
+	color: #89F83D;
+}

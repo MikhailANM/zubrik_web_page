@@ -1,0 +1,234 @@
+.SUPER_IRA{
+	background-image: url(images/hz.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 900px;
+	border: solid #96FF7A 5px;
+	border-radius: 10px;
+	margin-top: 60px;
+}
+.menu{
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	background-color: #ffffff;
+	top: 0px;
+	opacity: 0.7;
+}
+.menu a{
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+	width: 100px;
+	font-weight: 950;
+	padding: 20px 40px;
+}
+.menu a:hover{
+	background-color: #ccc;
+}
+body{
+	margin: 0;
+}
+h1{
+	color: #ffffff;
+	background-color: #000000;
+	border: solid #D57E00 4px;
+	border-radius: 10px;
+}
+.abobuS{
+	width: 160px;
+	border: solid #A80CF6 6px;
+	border-radius: 10px;
+	position: relative;
+	left: 500px;
+	top: 100px;
+}
+.SUPER_IRA p{
+	font-weight: bold;
+}
+.aBobus{
+	width: 137px;
+	border: solid #A80CF6 6px;
+	border-radius: 10px;
+	position: relative;
+	left: 100px;
+	top: 35px;
+	
+}
+.Mishka h2{
+	color: #C1FF00;
+	text-align: center;
+	padding: 10px;
+}
+.zubr{
+	background-color: #000000;
+	border-radius: 50px;
+}
+ .zubki{
+ 	background-image: url(images/zubi.jpg);
+ 	background-repeat: no-repeat;
+	background-position: top 0 right 0;
+	background-color: #CCCCCC;
+	border-radius: 10px;
+}
+.text{
+	font-weight: bold;
+	padding: 5px;
+}
+ul{
+	background-image: url();
+	background-color: #EEE9E9;
+	border-radius: 10px;
+}
+li{
+	color:red;
+}
+h3{
+	font-weight: bold;
+	text-align: center;
+	background-color: #9BFFEE;
+	border-radius: 10px;
+
+}
+h4{
+	font-weight: bold;
+}
+h4 a{
+	display: inline;
+	color: #A80CF6;
+	text-decoration: none;
+}
+.coronavo{
+	font-weight: bold;
+	color: #ffffff;
+}
+.corona{
+	background-image: url(images/coronka.jpg);
+	background-position: center;
+	background-attachment: fixed;
+
+}
+.virus1{
+	text-align: center;
+	color: red;
+}
+.virus2{
+	text-align: center;
+	color:orange;
+	font-weight: 800;
+}
+h6{
+	font-weight: 900;
+	font-size: 22px;
+	text-align: center;
+}
+.federico p{
+	text-align: center;
+	font-weight: 900;
+}
+h6 a{
+	color: darkred;
+}
+.infoaboba{
+	background-repeat: no-repeat;
+	text-align: left;
+	padding-left: 30px;
+	background-position: left center;
+	background-size: 18px 18px;
+	margin-left: 5%;
+}
+.kontakti input{
+	width: 90%;
+	padding: 8px;
+}
+.kontakti .vzriv{
+	width: 90%;
+	padding: 8px;
+	background-color: red;
+	color: #ffffff;
+	text-decoration: none;
+	border-radius: 10px;
+}
+.kontakti .vzriv:hover{
+	background-color: #ffffff;
+	color: red;
+}
+.kontakti{
+	text-align: center;
+	padding: 40px 0;
+	background-color: #F1F1F1;
+}
+.kontakti .litoypokemon228{
+	background-color: darkred;
+	color: #000000;
+	width: 270px;
+	border-radius: 15px;
+	padding: 8px 16px;
+	display: inline-block;
+	border:none;
+	outline: none;
+}
+.kontakti .litoypokemon228:hover{
+	background-color: darkorange;
+	color: #ffffff;
+	cursor: pointer;
+}
+.SUPER_IRA img{
+	width: 150px;
+	height: 350px;
+	border: solid 7px #FF8033;
+	margin-left: 40%;
+	border-radius: 10px;
+}
+.shop{
+	background-color: #55FF00;
+	padding: 30px;
+	border-radius: 10px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: 900;
+	position: absolute;
+	right: 10px;
+	bottom: 0;
+	opacity: 0.7;
+}
+.shop:hover{
+	background-color: lightgray;
+	color:#55FF00 ;
+}
+.sasun{
+	height: 1000px;
+	background-image: url(images/sasun.jpg);
+	background-size: cover;
+	background-position: center;
+	border: solid 5px #ABFF40;
+	border-radius: 10px;
+}
+.sasun_zuz{
+	text-align: center;
+	padding: 10px;
+	color: #A762FF;
+	background-color: #949494;
+	border-radius: 10px;
+	border: solid 2px #000000;
+}
+.infa{
+	background-color: #B8B7B9;
+	width: 600px;
+	opacity: 0.6;
+	border-radius: 10px;
+	margin-left: 10px;
+}
+.infa p{
+	opacity: 1.0;
+	padding: 5px;
+}
+.glaza img{
+	width: 100px;
+	height: 100px;
+	border: 1 solid red;
+	position: relative;
+	left: 800px;
+	top: 200px;
+	margin: 90px;
+}

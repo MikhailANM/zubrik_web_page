@@ -1,0 +1,28 @@
+@media(max-width: 575px){
+	.menu{
+		position: inherit;
+	}
+	.menu a{
+		width: 100%;
+		padding: 20px 0;
+	}
+	.zubki{
+		background-position: left 0;
+	}
+	.corona{
+		background-attachment: scroll;
+	}
+	.shop{
+		padding: 10px;
+		position: relative;
+		bottom: 0;
+		display: inline-block;
+		left: 5px;
+	}
+	.SUPER_IRA{
+	
+
+	}
+	.infa{
+		width: 300px;
+	}
