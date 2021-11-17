@@ -233,3 +233,20 @@ h6 a{
 	margin: 90px;
 	border: solid 2px #000000;
 }
+.sochinenie{
+	font-weight: bold;
+	font-size: 22px;
+	margin: 7px;
+
+}
+.soch{
+	text-align: center;
+	background-color: #f1f1f1;
+	padding: 10px;
+
+}
+.shkola{
+	width: 500px;
+	position: relative;
+	left: 35%;
+}

@@ -30,3 +30,9 @@
 		width: 0;
 		height: 0;
 	}
+	.shkola{
+		position:relative;
+		left: 0;
+		display: inline;
+		margin: 0;
+	}
