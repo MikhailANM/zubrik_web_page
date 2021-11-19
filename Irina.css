@@ -267,3 +267,16 @@ h6 a{
 	border-radius: 10px 0 0 10px;
 	padding-left: 35px;
 }
+.stranica2{
+	color: #ffffff;
+	text-decoration: none;
+	padding: 40px;
+	background-image: url(images/what.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: solid 1px darkred;
+	margin: 30px;
+}
+.stranica2:hover{
+	opacity: 0.5;
+}
