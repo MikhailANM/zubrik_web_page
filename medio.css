@@ -36,3 +36,29 @@
 		display: inline;
 		margin: 0;
 	}
+	.contanier{
+	display: inline-block;
+	}
+	.items img{
+	width: 200px;
+	height: 150px;
+	margin-right: 100%;
+
+	}
+	.items h2{
+	position: relative;
+	top: 130px;
+	left: 100px;
+	height: 70px;
+	border-radius: 10px 0 10px 10px;
+	}
+	.zubrichi{
+	background-color:#F5B0A1 ;
+	border-radius: 10px 0 0 10px;
+	position: relative;
+	left: 0;
+	}
+	.items{
+	display: flex;
+	justify-content: right;
+	}

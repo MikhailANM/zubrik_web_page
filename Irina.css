@@ -236,8 +236,9 @@ h6 a{
 .sochinenie{
 	font-weight: bold;
 	font-size: 22px;
-	margin: 7px;
-
+	padding: 20px;
+	background-color: #F5B0A1;
+	border-radius: 10px;
 }
 .soch{
 	text-align: center;
@@ -249,4 +250,20 @@ h6 a{
 	width: 500px;
 	position: relative;
 	left: 35%;
+}
+.contanier{
+	display: flex;
+	justify-content: center;
+}
+.items{
+	display: flex;
+	width: 300px;
+	height: 300px;
+	margin-left: 300px;
+	justify-content: center;
+}
+.zubrichi{
+	background-color:#F5B0A1 ;
+	border-radius: 10px 0 0 10px;
+	padding-left: 35px;
 }
