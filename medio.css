@@ -62,3 +62,10 @@
 	display: flex;
 	justify-content: right;
 	}
+	h2 p{
+		opacity: 0.0;
+	}
+	.stranica3 a{
+		padding: 10px;
+		left: 0;
+	}
