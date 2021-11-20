@@ -1,0 +1,58 @@
+.items1{
+	background-image: url(images/blzneci.jpg);
+}
+.items2{
+	background-image:url(images/cozerok.jpg) ;
+}
+.items3{
+	background-image: url(images/deva.jpg);
+}
+.items4{
+	background-image: url(images/lev.jpg);
+}
+.items5{
+	background-image: url(images/oven.jpg);
+}
+.items6{
+	background-image: url(images/rack.jpg);
+}
+.items7{
+	background-image: url(images/ribi.jpg);
+}
+.items8{
+	background-image: url(images/scorp.jpg);
+}
+.items9{
+	background-image: url(images/strelec.jpg);
+}
+.items10{
+	background-image: url(images/vesi.jpg);
+}
+.items11{
+	background-image: url(images/telec.jpg);
+}
+.items12{
+	background-image: url(images/vodoley.jpg);
+}
+.items1,.items2,.items3,.items4,.items5,
+.items6,.items7,.items8,.items9,.items10,.items11,.items12{
+	width: 700px;
+	height: 700px;
+	background-size: cover;
+	margin: 20px;
+	border-radius: 6px;
+}
+body{
+	background-color:#F5B0A1 ;
+}
+p{
+	position: absolute;
+	left: 740px;
+	font-weight: bold;
+}
+hr{
+	width: 680px;
+	border: 10px solid darkred ;
+	border-radius:5px 5px 0 0;
+	margin: 20px 0;
+}
